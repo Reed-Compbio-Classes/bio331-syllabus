@@ -16,7 +16,7 @@
 title: DRAFT Bio331 F24
 description: Computational Systems Biology
 theme: just-the-docs
-url: "https://reed-compbio-classes.github.io/bio331-S24-syllabus/"
+url: "https://reed-compbio-classes.github.io/bio331-F24-syllabus/"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 #title: Just the Docs
@@ -101,7 +101,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: S24 Moodle
+  - title: Bio331 F24 Moodle
     url: https://moodle.reed.edu/course/view.php?id=5621
 
 # Footer content
