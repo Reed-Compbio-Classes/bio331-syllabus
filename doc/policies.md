@@ -54,9 +54,7 @@ Breaking the rules outlined in numbers 5-6 violates the [Honor Principle](https:
 
 Code plagiarism is a real thing. Identical code is just as bad as copying and pasting entire paragraphs of an essay from another source - **always write your code in your own style.**  You have a lot of flexibility in naming variables, including print statements and comments in your code.
 
-Just like when writing papers, there is a way to cite others' work in programs.  
-
-1. If you write functions with other students in the class, add their names as comments at the beginning of the function, e.g., 
+Just like when writing papers, there is a way to cite others' work in programs.  If you write functions with other students in the class, add their names as comments at the beginning of the function, e.g., 
 
 ```
 def file2graph(file):
@@ -66,7 +64,7 @@ def file2graph(file):
    """
 ```
 
-2. When in doubt, cite discussions with other students.  Here are some examples.
+When in doubt, cite discussions with other students.  Here are some examples.
 
 ```
 # I talked about the structure of this code with Marco
@@ -76,7 +74,7 @@ def file2graph(file):
 
 Remember, this type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
 
-3. For the Research Project assignment, you may use Python libraries and modules and borrow code from the web.  If you do this, add the following information as comments to your program  This pertains to both Python modules and StackOverflow-like queries.
+For the Research Project assignment, you may use Python libraries and modules and borrow code from the web.  If you do this, add the following information as comments to your program.  This pertains to both Python modules and StackOverflow-like queries.
 1. Title and author information (if it exists)
 2. URL
 3. Brief description of what the code/module does.
@@ -89,10 +87,10 @@ Remember, this type of collaboration is expected and encouraged! People who work
 
 Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts).
 
-The fact is, generative AI could do a pretty darn good job with some of the **programming assignments**. But the assignments are designed for _you_ to learn about graph algorithms, which can only happen if _you_ write the code. The [course goals](goals.md) of this class include implementing graph algorithms and applying them to biological networks - if you use generative AI to do that, you are not demonstrating that you can do this on your own.
+The fact is, generative AI could do a pretty darn good job with some of the **programming assignments**. But the assignments are designed for _you_ to learn about graph algorithms, which can only happen if _you_ write the code. The [course goals](goals.md) of this class include implementing graph algorithms and applying them to biological networks - if you use generative AI, you are not demonstrating what you have learned.
 
-The same goes for using generative AI for answering the **written assignments**. Generative AI might get some questions correct, but _you_ would not be demonstrating that you have learned the content. Don't worry - you will have opportunities to revise all asssignments in order to demonstrate your learning.
+The same goes for using generative AI to answer the **written assignments**. Generative AI might get some questions correct, but _you_ would not be demonstrating that you have learned the content. The **research project** will also have some written components; you should also write these in your own words without the aid of generative AI.
 
-If you are feeling pressure to use generative AI to just _get the answer no matter what_, then come talk with me to strategize a way to help you learn the content without that pressure.
+Don't worry - you will have opportunities to revise all asssignments in order to demonstrate your learning. If you are feeling pressure to use generative AI to just _get the answer no matter what_, then come talk with me to strategize a way to help you learn the content without that pressure.
 
 ### The Main Takeaway: Generative AI should not be used in this class. But you should never feel the need to use it anyway.

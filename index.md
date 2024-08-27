@@ -20,7 +20,7 @@ This syllabus is a public, searchable document that contains all of the details 
 - [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
 
-The final version of this syllabus will be set by Monday, Sept 2.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. We will discuss any major changes to the [assessment and grading contract](doc/assessment/index.md) in class before the syllabus is altered.
+The final version of this syllabus will be set by Monday, Sept 2.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. 
 
 ## Course details
 
@@ -39,4 +39,5 @@ The final version of this syllabus will be set by Monday, Sept 2.  Any modificat
 - Check your email every day to stay updated.
 - We will use GitHub for the programming assignments.
 - We will use Moodle for written assignment submissions.
+- We will make a Slack workspace for informal communications and questions.
 - If you have a question, others likely have the same question. Reach out at any time to me at aritz@reed.edu.
