@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DRAFT Bio331 F24
+title: Bio331 F24
 description: Computational Systems Biology
 theme: just-the-docs
 url: "https://reed-compbio-classes.github.io/bio331-F24-syllabus/"

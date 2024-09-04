@@ -44,7 +44,7 @@ This collaboration policity is specific to Bio331 only.
 1. Unless otherwise specified, collaboration on lab activities, class worksheets, and programming assignments is highly encouraged. When you collaborate, properly cite it in your work (see below). 
 2. You can always look up how to use specific functions in Python, as long as you know what it is doing and you properly cite it (see below). 
 3. You can always attend posted office hours and email me questions.
-4. Do not use any graph library packages (e.g., `networkx` or `igraph`) unless directed. 
+4. Do not use any graph library packages (e.g., `networkx` or `igraph`) or other math/stats packages (e.g., `scipy` or `numpy`) unless directed. You _may_ use `pandas` to manage datasets, but check with Anna before using any of the built-in functions.
 5. **You must write all of your own code for the programming assignments**. The research project can be done in groups, and you can also use graph library packages and other tools (see below).
 6. Unless otherwise specified, **the written assignments must be completed on your own.**
 
