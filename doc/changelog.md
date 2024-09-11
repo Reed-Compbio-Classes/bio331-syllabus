@@ -11,3 +11,9 @@ The purpose of a change log is to document all major changes to some code/websit
 ## 9/4/2024
 
 Syllabus is finalized.
+
+## 9/11/2024
+
+Two changes based on feedback:
+- In the description of the [Labs](assessment.md), Labs must be submitted by Friday of that week - a solution will be posted by Friday evening.
+-In the [Collaboration Policies](policies.md#collaboration-policy), I added a "Citing Previous Code from Class" section and a "Citing Online Code" section. 

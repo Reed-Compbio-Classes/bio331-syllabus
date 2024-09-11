@@ -54,7 +54,7 @@ Breaking the rules outlined in numbers 5-6 violates the [Honor Principle](https:
 
 Code plagiarism is a real thing. Identical code is just as bad as copying and pasting entire paragraphs of an essay from another source - **always write your code in your own style.**  You have a lot of flexibility in naming variables, including print statements and comments in your code.
 
-Just like when writing papers, there is a way to cite others' work in programs.  If you write functions with other students in the class, add their names as comments at the beginning of the function, e.g., 
+**Citing collaborations.** Just like when writing papers, there is a way to cite others' work in programs.  If you write functions with other students in the class, add their names as comments at the beginning of the function, e.g., 
 
 ```
 def file2graph(file):
@@ -74,14 +74,18 @@ When in doubt, cite discussions with other students.  Here are some examples.
 
 Remember, this type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
 
-For the Research Project assignment, you may use Python libraries and modules and borrow code from the web.  If you do this, add the following information as comments to your program.  This pertains to both Python modules and StackOverflow-like queries.
+**Citing Previous Code from Class.** If you copy your own code from previous assignments or labs, cite in the comments where you copied the code from (e.g., `# read_graph() function from Lab1.`). I will post solutions to the labs on Fridays; you are free to copy pieces of these solutions for future assignments, clearly state that it is from a posted solution (e.g., `# read_graph() function from posted Lab1 solution.`). 
+
+**Citing Online Code.** You can always look up basic Python syntax online - if it’s more than "how do I structure this FOR loop" or "how do I sort a list" then be sure to cite the URL in the comments. Online resources linked from Moodle don’t have to be cited. Do not look up entire functions that are part of an assignment or lab (e.g., calculating the degree distribution of a graph in Python or shortest paths algorithm in Python). While it may take some time for you to write these functions yourself, they are important for the learning goals in the class. 
+
+For the Research Project assignment, you may use Python libraries we have not previously used in Bio331 and modules and borrow code from the web.  If you do this, add the following information as comments to your program.  This pertains to both Python modules and StackOverflow-like queries.
 1. Title and author information (if it exists)
 2. URL
 3. Brief description of what the code/module does.
 
 *Warning:*  There are many incorrect programs floating around the internet.  Make sure that the code you use actually does what you want it to do.
 
-### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! You should "cite" anyone you worked with on the programming assignments.
+### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! You should "cite" anyone you worked with on the programming assignments. Copying previous code from class is OK; you may look up Python syntax online but avoid copying entire functions.
 
 ## Generative AI Policy
 
