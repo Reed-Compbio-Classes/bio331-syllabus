@@ -6,6 +6,7 @@ nav_order: 1
 
 # Bio331: Computational Systems Biology
 
+
 In the era of high-throughput genomics, proteomics, and transcriptomics, we can now computationally explore biological processes at a systems level. Networks, or graphs, have become a dominant mathematical representation in this area of research. We will draw on the vast amount of established graph theory to learn about network models currently applied to biological systems. 
 
 ## About this syllabus
