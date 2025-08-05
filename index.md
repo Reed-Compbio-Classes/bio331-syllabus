@@ -21,21 +21,21 @@ This syllabus is a public, searchable document that contains all of the details 
 - [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
 - [Keys for Success](doc/tips.md): tips for succeeding in the course.
 
-The final version of this syllabus will be set by Monday, Sept 2.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. 
+The final version of this syllabus will be set by the first day of class.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. 
 
 ## Course details
 
 **Instructor:** Anna Ritz (Biology 200B, see the [support](docs/support.md) page for student hours)
 
-**Lecture:** MWF 10-10:50am in ETC 205
+**Lecture:** MWF 10-10:50am in ETC 211
 
-**Labs:** M 1:10-4:00 in ETC 208 and Tu 1:40-4:30 in ETC 205.
+**Lab:** M 1:10-4:00 in ETC 208
 
 **Materials:** All reading, videos, and other materials will be freely available via Moodle.
 
 ## Communication & Technology
 
-**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=5621).** 
+**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=6211).** 
 
 - Check your email every day to stay updated.
 - We will use GitHub for the programming assignments.

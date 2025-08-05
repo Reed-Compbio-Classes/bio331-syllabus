@@ -16,10 +16,11 @@ There are four policies for this course: one for [attendance](#attendance-policy
 
 There are some religious holidays and other events in the fall that might affect student attendance - please note these in your calendars and let me know if your attendance will be affected.
 
-- October 2-4: Rosh Hashanah 
-- October 11-12: Yom Kippur
-- October 29 - November 3: Diwalai
-- November 5: Presidential Election
+- September 22-24: Rosh Hashanah 
+- October 1-2: Yom Kippur
+- October 20: Diwali begins
+- November 11: Veterans Day
+- November 27: Thanksgiving Day
 
 If you miss multiple classes, I may reach out to make sure you are OK. Communication is key. Please see "Illness and Exceptional Circumstances" on the [support page](support.md) for more information about extended absences. 
 
@@ -27,7 +28,7 @@ If you miss multiple classes, I may reach out to make sure you are OK. Communica
 
 ## Deadline Policy
 
-The the programming, written, and research project assignments all have deadlines. Refer to the [schedule overview](schedule.md) and the [Moodle page](https://moodle.reed.edu/course/view.php?id=5621) for a detailed schedule with deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
+The the programming, written, and research project assignments all have deadlines. Refer to the [schedule overview](schedule.md) and the [Moodle page](https://moodle.reed.edu/course/view.php?id=6211) for a detailed schedule with deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
 
 **Why Submit Work on Time?** The programming and written assignments are designed so that you are working on them after you have learned the relevant material in lecture and lab. If you are working on older assignments when another assignment is out, you might lose ground with the current coursework. 
 

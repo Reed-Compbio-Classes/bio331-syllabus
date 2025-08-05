@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bio331 F24
+title: Bio331 F25
 description: Computational Systems Biology
 theme: just-the-docs
-url: "https://reed-compbio-classes.github.io/bio331-F24-syllabus/"
+url: "https://reed-compbio-classes.github.io/bio331-syllabus/"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 #title: Just the Docs
@@ -90,7 +90,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "F24 Moodle": https://moodle.reed.edu/course/view.php?id=5621
+  "F25 Moodle": https://moodle.reed.edu/course/view.php?id=6211
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -101,8 +101,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Bio331 F24 Moodle
-    url: https://moodle.reed.edu/course/view.php?id=5621
+  - title: Bio331 F25 Moodle
+    url: https://moodle.reed.edu/course/view.php?id=6211
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -111,7 +111,7 @@ nav_external_links:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2024 Anna Ritz. Distributed by an <a href=\"https://github.com/Reed-Compbio-Classes/bio131-S24-syllabus/blob/main/LICENSE\">MIT license.</a>"
+footer_content: "Copyright &copy; 2025 Anna Ritz. Distributed by an <a href=\"https://github.com/Reed-Compbio-Classes/bio131-syllabus/blob/main/LICENSE\">MIT license.</a>"
 
 plugins:
   - jekyll-seo-tag

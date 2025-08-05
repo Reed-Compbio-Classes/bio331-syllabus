@@ -6,7 +6,7 @@ nav_order: 5
 
 ## Schedule Overview
 
-This schedule may shift and the assignment timelines are approximate; refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=5621) for up-to-date information and a full schedule.
+This schedule may shift and the assignment timelines are approximate; refer to the [Moodle page](https://moodle.reed.edu/course/view.php?id=6211) for up-to-date information and a full schedule.
 
 | | Lecture | Lab | Assignment |
 | --- | --- | --- | --- |
