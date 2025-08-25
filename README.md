@@ -1,8 +1,8 @@
-# Bio331 Fall 2024 Syllabus
+# Bio331 Fall 2025 Syllabus
 
 This is the content for Reed College's Bio331 F24 offering, taught by Anna Ritz. The website is live at this link:
 
-[https://reed-compbio-classes.github.io/bio331-F24-syllabus/](https://reed-compbio-classes.github.io/bio331-F24-syllabus/)
+[https://reed-compbio-classes.github.io/bio331-syllabus/](https://reed-compbio-classes.github.io/bio331-syllabus/)
 
 ### Developer Notes
 
@@ -19,3 +19,25 @@ bundle lock --add-platform x86_64-linux
 ```
 
 **To get relative links:** I had to add the `jekyll-relative-links` gem to the Gemfile (this should be distributed with GitHub pages, but it didn't work with just-the-docs template).
+
+# Convert website to PDF
+
+Requires the [pandoc](https://pandoc.org/installing.html) tool.
+
+Concatenates all the files in the order that they are shown on the left-hand banner on the website. 
+
+```
+pandoc index.md \
+    doc/goals.md \
+    doc/support.md \
+    doc/policies.md \
+    doc/assessment.md \ 
+    doc/schedule.md \ 
+    doc/environment.md \ 
+    doc/tips.md \ 
+    doc/changelog.md \
+    -o bio331-F24-syllabus.pdf \
+    -M title="Bio331 Fall 2024 Syllabus"
+``` 
+
+Then, move the file to `doc/archive/`.

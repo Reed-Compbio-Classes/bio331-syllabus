@@ -8,13 +8,13 @@ nav_order: 3
 
 Bio331 has a number of support systems to help you in this class. 
 
-## Student Hours: TBD
+## Student Hours: Wednesdays 11-12pm and 3-4pm
 
 Student hours are times where I am in my office (Biology 200B) waiting for students to come talk with me. Drop in during these times to talk about anything (class related or otherwise), no appointment needed. Email me to set up an appointment if you cannot make student hour times.
 
 ## Tutoring (DoJo)
 
-Tutoring is offered by Academic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring. If someone requests individual tutoring, I will work to find a student who can tutor Bio331 material (this may take a bit of time because Bio331 has not been offered recently). Please reach out to the [Office of Academic Support](https://www.reed.edu/academic_support/) and Cc me if you are interested in tutoring.
+Tutoring is offered by Academic Support Services, and gives students additional times outside of class to get help with assignments and the course material. Each student can get up to one hour per week _per class_ of individual (one-on-one) tutoring. If someone requests individual tutoring, I will work to find a student who can tutor Bio331 material. Please reach out to the [Office of Academic Support](https://www.reed.edu/academic_support/) and Cc me if you are interested in tutoring.
 
 ## Academic Accommodations
 

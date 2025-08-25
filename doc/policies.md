@@ -1,18 +1,22 @@
 ---
 title: Course Policies
 layout: default
-nav_order: 4
+nav_order: 5
 ---
 
 # Course Policies
 
-There are four policies for this course: one for [attendance](#attendance-policy), one for [deadlines](#deadline-policy), one for [collaboration](#collaboration-policy) (which is encouraged for the programming assignments) and one for the use of [generative AI](#generative-ai-policy) (which is discouraged).
+There are four policies for this course: one for [attendance](#attendance-policy), one for [deadlines](#deadline-policy), one for [collaboration](#collaboration-policy) (which is encouraged for the programming assignments) and one for the use of [online resources and generative AI](#online-resources--generative-ai-policy) (which will be discussed in class).
 
 ## Attendance Policy
 
 **Why Attend?** Attending the lectures and completing work during labs will put you in the best position to succeed in the course. Lectures will provide valuable information about the assignments, and labs will include some group work. Labs also offer time for me to provide guidance - they could be framed as small-group office hours working through problems together.  
 
-**What's the Policy?**  Email me if you cannot attend lecture or lab.  There is no penalty for missing class or lab, but you may miss out on some discussion/worksheet components. If you are doing group work in lab, you have a responsibility to communicate with your group and catch up with work asynchronously. You are expected to review the missed material and meet with me if anything is unclear. 
+**What's the Policy?**  Email me if you cannot attend lecture or lab. You are expected to review the missed material and meet with me if anything is unclear. 
+
+There are three classes with activities and 14 labs where your engagement is expected. If you have spoken with me about not being able to attend, you will be able to catch up with this work asynchronously. 
+
+You are expected to attend the presentations during Finals Week. 
 
 There are some religious holidays and other events in the fall that might affect student attendance - please note these in your calendars and let me know if your attendance will be affected.
 
@@ -24,50 +28,34 @@ There are some religious holidays and other events in the fall that might affect
 
 If you miss multiple classes, I may reach out to make sure you are OK. Communication is key. Please see "Illness and Exceptional Circumstances" on the [support page](support.md) for more information about extended absences. 
 
-### The Main Takeaway: There is no penalty for missing class, but attending and participating is expected and will set you up for success.
+### The Main Takeaway: Attending and participating is expected and will set you up for success.
 
 ## Deadline Policy
 
-The the programming, written, and research project assignments all have deadlines. Refer to the [schedule overview](schedule.md) and the [Moodle page](https://moodle.reed.edu/course/view.php?id=6211) for a detailed schedule with deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
+The the programming assignments, quizzes, and the research project assignments all have deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
 
-**Why Submit Work on Time?** The programming and written assignments are designed so that you are working on them after you have learned the relevant material in lecture and lab. If you are working on older assignments when another assignment is out, you might lose ground with the current coursework. 
+**Why Submit Work on Time?** The programming assignments and take-home quizzes are designed so that you are working on them after you have learned the relevant material in lecture and lab. If you are working on older assignments when another assignment is out, you might lose ground with the current coursework. 
 
-**What's the Policy?** You must submit whatever work you have by the deadline, but there is no penalty for re-submitting programming and written assignments.  If you plan to resubmit your work, you must include a comment or statement to that effect and schedule a time to meet with me within one week of the submission in order to make a plan. These details will be provided on every written and programming assignment.
+**What's the Policy?** You must submit whatever work you have by the deadline. Any work that is marked as "Missing" or "Partially Complete" can be resubmitted after receiving feedback from me.
 
-You have until Finals Week to re-submit all assignments (but note that the assignments are substantial enough that you cannot wait until Finals Week to complete them). 
+- The deadline to resubmit programming assignments is Mon 11/10 (3 weeks after the last programming assignment is due)
+- The deadline to resubmit short quizzes is Wed 12/10 (2 weeks after the last quiz is due)
+- The deadline to resubmit the long quiz is during Finals Week (exact date TBD).
 
-### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit any of the work, but the class is not designed so you can submit _all_ the work at the very end of the semester.
+These details will be provided on every assignment.
+
+### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit work that is marked "Missing" or "Partially Complete" after receiving feedback from me.
 
 ## Collaboration Policy
 
-This collaboration policity is specific to Bio331 only.
+**Why Collaborate?** Collaboration on all assignments and activities (except for the quizzes) is highly encouraged. It is often easier to work through problems with a thought partner, working with someone else brings a different perspective to the challenges, you might help each other out in complementary ways, and working together can be fun! 
 
-1. Unless otherwise specified, collaboration on lab activities, class worksheets, and programming assignments is highly encouraged. When you collaborate, properly cite it in your work (see below). 
-2. You can always look up how to use specific functions in Python, as long as you know what it is doing and you properly cite it (see below). 
-3. You can always attend posted office hours and email me questions.
-4. Do not use any graph library packages (e.g., `networkx` or `igraph`) or other math/stats packages (e.g., `scipy` or `numpy`) unless directed. You _may_ use `pandas` to manage datasets, but check with Anna before using any of the built-in functions.
-5. **You must write all of your own code for the programming assignments**. The research project can be done in groups, and you can also use graph library packages and other tools (see below).
-6. Unless otherwise specified, **the written assignments must be completed on your own.**
+**What's the Policy?** When you collaborate, properly cite it in your work (see below). **You must write all of your own code for the programming assignments**, even if that means sitting next to a collaborator and typing the same thing. You have a lot of flexibility in naming variables, including print statements and comments in your code.
 
-Breaking the rules outlined in numbers 5-6 violates the [Honor Principle](https://www.reed.edu/honor_principle/) and may result in severe consequences.
-
-### Citing Code
-
-Code plagiarism is a real thing. Identical code is just as bad as copying and pasting entire paragraphs of an essay from another source - **always write your code in your own style.**  You have a lot of flexibility in naming variables, including print statements and comments in your code.
-
-**Citing collaborations.** Just like when writing papers, there is a way to cite others' work in programs.  If you write functions with other students in the class, add their names as comments at the beginning of the function, e.g., 
+Code plagiarism is a real thing. Identical code is just as bad as copying and pasting entire paragraphs of an essay from another source. Just like when writing papers, there is a way to cite others' work in programs.  If you collaborate with other students in the class or sought help from a tutor, add their names as comments, e.g., 
 
 ```
-def file2graph(file):
-   """
-   Function to convert a file to a JSON graph.
-   Written with Jane and Rob for Lab 5
-   """
-```
-
-When in doubt, cite discussions with other students.  Here are some examples.
-
-```
+# This function was written with Jane and Rob for Lab 5
 # I talked about the structure of this code with Marco
 # Julie and I worked on the function post_network() together.
 # I modified the convert() function from Lab 3
@@ -75,27 +63,36 @@ When in doubt, cite discussions with other students.  Here are some examples.
 
 Remember, this type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
 
-**Citing Previous Code from Class.** If you copy your own code from previous assignments or labs, cite in the comments where you copied the code from (e.g., `# read_graph() function from Lab1.`). I will post solutions to the labs on Fridays; you are free to copy pieces of these solutions for future assignments, clearly state that it is from a posted solution (e.g., `# read_graph() function from posted Lab1 solution.`). 
+**Citing Previous Code from Class.** If you copy your own code from previous assignments or labs, cite in the comments where you copied the code from (e.g., `# read_graph() function from Lab1.`). Anna will post solutions to the labs on Fridays; you are free to copy pieces of these solutions for future assignments, clearly state that it is from a posted solution (e.g., `# read_graph() function from posted Lab1 solution.`). 
 
-**Citing Online Code.** You can always look up basic Python syntax online - if it’s more than "how do I structure this FOR loop" or "how do I sort a list" then be sure to cite the URL in the comments. Online resources linked from Moodle don’t have to be cited. Do not look up entire functions that are part of an assignment or lab (e.g., calculating the degree distribution of a graph in Python or shortest paths algorithm in Python). While it may take some time for you to write these functions yourself, they are important for the learning goals in the class. 
+### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! You should "cite" anyone you worked with on the programming assignments and any code you copied from a previous lab or assignment. 
 
-For the Research Project assignment, you may use Python libraries we have not previously used in Bio331 and modules and borrow code from the web.  If you do this, add the following information as comments to your program.  This pertains to both Python modules and StackOverflow-like queries.
-1. Title and author information (if it exists)
-2. URL
-3. Brief description of what the code/module does.
+## Online Resources & Generative AI Policy
 
-*Warning:*  There are many incorrect programs floating around the internet.  Make sure that the code you use actually does what you want it to do.
+There are many online resources for python, including python modules that have pre-packaged functions, the [python standard library reference](https://docs.python.org/3.13/library/index.html), and user help threads like StackOverflow. Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts).
 
-### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! You should "cite" anyone you worked with on the programming assignments. Copying previous code from class is OK; you may look up Python syntax online but avoid copying entire functions.
+You may always use the resources linked from Moodle. This policy lays out the scope of what is allowed beyond the Moodle resources.
 
-## Generative AI Policy
+### Programming Assignments
 
-Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts).
+The fact is, online resources and generative AI might do a good job with some of the programming assignments. But the assignments are designed for _you_ to learn about graph algorithms, which can only happen if _you_ write the code. The [course goals](goals.md) of this class include implementing graph algorithms and applying them to biological networks - if you use online resources or generative AI, you are not demonstrating what you have learned.
 
-The fact is, generative AI could do a pretty darn good job with some of the **programming assignments**. But the assignments are designed for _you_ to learn about graph algorithms, which can only happen if _you_ write the code. The [course goals](goals.md) of this class include implementing graph algorithms and applying them to biological networks - if you use generative AI, you are not demonstrating what you have learned.
+1. Do not use python packages that provide code for working with graphs (e.g., `networkx` or `igraph`) or other math/stats packages (e.g., `scipy` or `numpy`) unless otherwise directed. You _may_ use `pandas` to manage datasets, but check with Anna before using any of the built-in functions.
 
-The same goes for using generative AI to answer the **written assignments**. Generative AI might get some questions correct, but _you_ would not be demonstrating that you have learned the content. The **research project** will also have some written components; you should also write these in your own words without the aid of generative AI.
+2. You may look up basic Python syntax online (using either a search engine or, **new this year,** using generative AI). Some examples of basic syntax are "how do I structure a double FOR loop?" "How do I sort a list?" "How do I initialize a dictionary"?. 
 
-Don't worry - you will have opportunities to revise all asssignments in order to demonstrate your learning. If you are feeling pressure to use generative AI to just _get the answer no matter what_, then come talk with me to strategize a way to help you learn the content without that pressure.
+3. **New this year,** you may use generative AI to help debug your code. If you do, you must add a comment with the ChatGPT prompt you provided. 
 
-### The Main Takeaway: Generative AI should not be used in this class. But you should never feel the need to use it anyway.
+4. You may not look up the code for entire functions that are part of an assignment or lab (e.g., calculating the degree distribution of a graph or the shortest paths algorithm). While it may take some time for you to write these functions yourself, they are important for the learning goals in the class. 
+
+When in doubt, "cite" your online resources in the comments of your code.
+
+### Quizzes
+
+The quizzes are intended to be done on your own with your notes and the resources available on Moodle. They are an assessment of your understanding of biological networks and graph algorithms, so online resources (beyond the ones linked from Moodle) and generative AI are not allowed for quizzes.
+
+### Research Project 
+
+The research project, on the other hand, might have opportunities for using new packages and getting help with generative AI. We will have a class discussion about how to use generative AI in your research project to set the class policy then.
+
+### The Main Takeaway: Online Resources and Generative AI should not be used for generating entire functions, but they may be used to help understand basic python syntax and debug issues (with proper citation). Online resources should not be used for quizzes (beyond what Moodle provides), and we will discuss the role of online resources for the research project as a class.
