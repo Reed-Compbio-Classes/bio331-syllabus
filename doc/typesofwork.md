@@ -8,11 +8,11 @@ nav_order: 4
 
 Bio331 involves learning about two distinct themes -- biological networks at different scales and graph algorithms -- and how they can be combined to answer new biological questions. The work is graded on Missing/Partially Complete/Complete/Excellent (M/P/C/E), Present/Absent, or according to baseline work and extra work. Each assignment will clearly describe the criteria for success according to these assessment typess. More information is provided on the Moodle page. 
 
-## Programming Assignments (30%)
+## Programming Assignments (25%)
 
 There are approximately four programming assignments to be done outside of class. The programming labs are designed to help you start on these assignments (lab solutions will be released on Fridays), and they can be collaborative. You will complete these programming assignments in the first half of the semester. These are graded as M/P/C/E.
 
-## Short Quizzes (20%)
+## Short Quizzes (25%)
 
 There will be a take-home short quiz about each week's content (approximately 10 quizzes). These are intended for you to answer questions about the content of the lecture on your own (they are not collaborative). These are graded as M/P/C/E.
 
