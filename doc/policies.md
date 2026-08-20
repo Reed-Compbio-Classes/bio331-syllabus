@@ -18,7 +18,7 @@ There are 6 programming labs and 7 lab-time opportunities for research project w
 
 There are some religious holidays and other events in the fall that might affect student attendance - please note these in your calendars and let me know if your attendance will be affected.
 
-- September 9: Labor Day (no classes)
+- September 7: Labor Day (no classes)
 - September 11-13: Rosh Hashanah
 - September 20-21: Yom Kippur
 - November 3: Election Day
