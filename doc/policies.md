@@ -6,7 +6,7 @@ nav_order: 5
 
 # Course Policies
 
-There are four policies for this course: one for [attendance](#attendance-policy), one for [deadlines](#deadline-policy), one for [collaboration](#collaboration-policy) (which is encouraged for the programming assignments) and one for the use of [online resources and generative AI](#online-resources--generative-ai-policy) (which will be discussed in class).
+There are four policies for this course: one for [attendance](#attendance-policy), one for [deadlines](#deadline-policy), one for [collaboration](#collaboration-policy) (which is encouraged for the programming assignments) and one for the use of [online resources and generative AI](#online-resources--generative-ai-policy). These will all be discussed in class; any modifications to these policies will be updated on the syllabus.
 
 ## Attendance Policy
 
@@ -14,17 +14,16 @@ There are four policies for this course: one for [attendance](#attendance-policy
 
 **What's the Policy?**  Email me if you cannot attend lecture or lab. You are expected to review the missed material and meet with me if anything is unclear. 
 
-There are three classes with activities and 14 labs where your engagement is expected. If you have spoken with me about not being able to attend, you will be able to catch up with this work asynchronously. 
-
-You are expected to attend the presentations during Finals Week. 
+There are 6 programming labs and 7 lab-time opportunities for research project work; your engagement is expected. If you have spoken with me about not being able to attend, you will be able to catch up with this work asynchronously. 
 
 There are some religious holidays and other events in the fall that might affect student attendance - please note these in your calendars and let me know if your attendance will be affected.
 
-- September 22-24: Rosh Hashanah 
-- October 1-2: Yom Kippur
-- October 20: Diwali begins
+- September 11-13: Rosh Hashanah
+- September 20-21: Yom Kippur
+- November 3: Election Day
+- November 8: Diwali begins
 - November 11: Veterans Day
-- November 27: Thanksgiving Day
+- November 26: Thanksgiving Day
 
 If you miss multiple classes, I may reach out to make sure you are OK. Communication is key. Please see "Illness and Exceptional Circumstances" on the [support page](support.md) for more information about extended absences. 
 
@@ -32,23 +31,24 @@ If you miss multiple classes, I may reach out to make sure you are OK. Communica
 
 ## Deadline Policy
 
-The the programming assignments, quizzes, and the research project assignments all have deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
+The the programming assignments, exams, and the research project milestones all have deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
 
-**Why Submit Work on Time?** The programming assignments and take-home quizzes are designed so that you are working on them after you have learned the relevant material in lecture and lab. If you are working on older assignments when another assignment is out, you might lose ground with the current coursework. 
+**Why Submit Work on Time?** The programming assignments are designed so that you are working on them after you have learned the relevant material in lecture and lab. If you are working on older assignments when another assignment is out, you might lose ground with the current coursework. 
 
-**What's the Policy?** You must submit whatever work you have by the deadline. Any work that is marked as "Missing" or "Partially Complete" can be resubmitted after receiving feedback from me.
+The exams assess the previous weeks' worth of material and they are assigned at specific times to give you a break from the programming components of the course. If you submit exams late, you will likely be working on programming and exams concurrently, which is not the intention of the workload.
 
-- The deadline to resubmit programming assignments is Mon 11/10 (3 weeks after the last programming assignment is due)
-- The deadline to resubmit short quizzes is Wed 12/10 (2 weeks after the last quiz is due)
-- The deadline to resubmit the long quiz is during Finals Week (exact date TBD).
+Finally, if you do not submit work on time, I cannot guarantee that you will receive timely feedback; this may affect your ability to resubmit work to improve your grade.
 
-These details will be provided on every assignment.
+**What's the Policy?** You must submit whatever work you have by the deadline, and I will mark it as M/P/C/E. Work may be resubmitted after receiving feedback from me; resubmitted work that includes a careful reflection on the changes mage are eligible for an E. **There are two non-negotiable deadlines in this course related to resubmitting work:**
 
-### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit work that is marked "Missing" or "Partially Complete" after receiving feedback from me.
+- The deadline to resubmit programming assignments is Mon 11/9 (3 weeks after the last programming assignment is due)
+- The deadline to resubmit writing assignments is the last day of Finals (Thurs 12/17)
+
+### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit work after receiving feedback from me.
 
 ## Collaboration Policy
 
-**Why Collaborate?** Collaboration on all assignments and activities (except for the quizzes) is highly encouraged. It is often easier to work through problems with a thought partner, working with someone else brings a different perspective to the challenges, you might help each other out in complementary ways, and working together can be fun! 
+**Why Collaborate?** Collaboration on all assignments and activities (except for the exams) is highly encouraged. It is often easier to work through problems with a thought partner, working with someone else brings a different perspective to the challenges, you might help each other out in complementary ways, and working together can be fun! 
 
 **What's the Policy?** When you collaborate, properly cite it in your work (see below). **You must write all of your own code for the programming assignments**, even if that means sitting next to a collaborator and typing the same thing. You have a lot of flexibility in naming variables, including print statements and comments in your code.
 
@@ -61,7 +61,7 @@ Code plagiarism is a real thing. Identical code is just as bad as copying and pa
 # I modified the convert() function from Lab 3
 ```
 
-Remember, this type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
+This type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
 
 **Citing Previous Code from Class.** If you copy your own code from previous assignments or labs, cite in the comments where you copied the code from (e.g., `# read_graph() function from Lab1.`). Anna will post solutions to the labs on Fridays; you are free to copy pieces of these solutions for future assignments, clearly state that it is from a posted solution (e.g., `# read_graph() function from posted Lab1 solution.`). 
 
@@ -71,25 +71,21 @@ Remember, this type of collaboration is expected and encouraged! People who work
 
 There are many online resources for python, including python modules that have pre-packaged functions, the [python standard library reference](https://docs.python.org/3.13/library/index.html), and user help threads like StackOverflow. Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts).
 
-You may always use the resources linked from Moodle. This policy lays out the scope of what is allowed beyond the Moodle resources.
+You may always use the resources linked from Moodle. This policy lays out the scope of what is allowed beyond the Moodle resources. **New this year,** each assignment and the research project will include a "Resources Used" section, where you should explain what resources you used and how you used them. 
 
 ### Programming Assignments
 
 The fact is, online resources and generative AI might do a good job with some of the programming assignments. But the assignments are designed for _you_ to learn about graph algorithms, which can only happen if _you_ write the code. The [course goals](goals.md) of this class include implementing graph algorithms and applying them to biological networks - if you use online resources or generative AI, you are not demonstrating what you have learned.
 
-1. Do not use python packages that provide code for working with graphs (e.g., `networkx` or `igraph`) or other math/stats packages (e.g., `scipy` or `numpy`) unless otherwise directed. You _may_ use `pandas` to manage datasets, but check with Anna before using any of the built-in functions.
+1. Do not use python packages that provide code for working with graphs (e.g., `networkx` or `igraph`) or other math/stats packages (e.g., `scipy` or `numpy`) unless otherwise directed. You _may_ use `pandas` to manage datasets, but check with me before using any of the built-in functions.
 
-2. You may look up basic Python syntax online (using either a search engine or, **new this year,** using generative AI). Some examples of basic syntax are "how do I structure a double FOR loop?" "How do I sort a list?" "How do I initialize a dictionary"?. 
+2. You may look up basic Python syntax online (using either a search engine or generative AI). Some examples of basic syntax are "how do I structure a double FOR loop?" "How do I sort a list?" "How do I initialize a dictionary?". You may use generative AI to help debug your code. 
 
-3. **New this year,** you may use generative AI to help debug your code. If you do, you must add a comment with the ChatGPT prompt you provided. 
+3. You may not look up the code for entire functions that are part of an assignment or lab (e.g., calculating the degree distribution of a graph or the shortest paths algorithm). While it may take some time for you to write these functions yourself, they are important for the learning goals in the class. 
 
-4. You may not look up the code for entire functions that are part of an assignment or lab (e.g., calculating the degree distribution of a graph or the shortest paths algorithm). While it may take some time for you to write these functions yourself, they are important for the learning goals in the class. 
+### Exams
 
-When in doubt, "cite" your online resources in the comments of your code.
-
-### Quizzes
-
-The quizzes are intended to be done on your own with your notes and the resources available on Moodle. They are an assessment of your understanding of biological networks and graph algorithms, so online resources (beyond the ones linked from Moodle) and generative AI are not allowed for quizzes.
+The exams are intended to be done on your own with your notes and the resources available on Moodle. They are an assessment of your understanding of biological networks and graph algorithms, so online resources (beyond the ones linked from Moodle) and generative AI are not allowed for exams.
 
 ### Research Project 
 

@@ -31,13 +31,10 @@ pandoc index.md \
     doc/goals.md \
     doc/support.md \
     doc/policies.md \
-    doc/assessment.md \ 
-    doc/schedule.md \ 
-    doc/environment.md \ 
-    doc/tips.md \ 
+    doc/environment.md \
+    doc/tips.md \
     doc/changelog.md \
-    -o bio331-F24-syllabus.pdf \
-    -M title="Bio331 Fall 2024 Syllabus"
+    -o doc/archive/bio331-F25-syllabus.pdf \
+    -M title="Bio331 Fall 2025 Syllabus"
 ``` 
-
-Then, move the file to `doc/archive/`.
+Then move the output file to `doc/archive/`.

@@ -6,26 +6,24 @@ nav_order: 4
 
 # Types of Work
 
-Bio331 involves learning about two distinct themes -- biological networks at different scales and graph algorithms -- and how they can be combined to answer new biological questions. The work is graded on Missing/Partially Complete/Complete/Excellent (M/P/C/E), Present/Absent, or according to baseline work and extra work. Each assignment will clearly describe the criteria for success according to these assessment typess. More information is provided on the Moodle page. 
+Bio331 involves learning about two distinct themes -- biological networks at different scales and graph algorithms -- and how they can be combined to answer new biological questions. The work is graded on Missing/Partially Complete/Complete/Excellent (M/P/C/E) or Present/Absent. Each assignment will clearly describe the criteria for success according to these assessment types. 
+
+For work graded as M/P/C/E, only truly exceptional work is marked as "Excellent" on the first submission. Students who get an M or a P may resubmit their work to get a "Complete." In order to get an "Excellent" on a resubmission, students must also submit a reflection on their modifications. More information is provided on the Moodle page. 
 
 ## Programming Assignments (25%)
 
-There are approximately four programming assignments to be done outside of class. The programming labs are designed to help you start on these assignments (lab solutions will be released on Fridays), and they can be collaborative. You will complete these programming assignments in the first half of the semester. These are graded as M/P/C/E.
+There are approximately four programming assignments to be done outside of class. The programming labs are designed to help you start on these assignments (lab solutions will be released on Wednesdays), and the assignments can be collaborative. You will complete these programming assignments in the first half of the semester. These are graded as M/P/C/E, and you may resubmit work.
 
-## Short Quizzes (25%)
+## Exams (25%) 
 
-There will be a take-home short quiz about each week's content (approximately 10 quizzes). These are intended for you to answer questions about the content of the lecture on your own (they are not collaborative). These are graded as M/P/C/E.
+There will be three exams that review and expand upon the lecture content of the course; they are not collaborative. They will be assigned at approximately the 5-week, 10-week, and 13-week mark. These are graded as M/P/C/E, and you may resubmit work.
 
-## Long Quiz (10%)
+## Lab Engagement (5%)
 
-There will be a longer take-home quiz in the last two weeks of the semester that asks you to combine biological networks and graph algorithm topics we have learned to frame new questions. There will also be a reflection portion of the quiz based on the research project. These are graded as M/P/C/E.
+There are 6 programming labs and 7 lab-time opportunities for research project work. Attendance (or otherwise participating) in these activities is important for the class's learning goals. There will be ways to make up these components of the class if you miss them (see the attendance policy). These are graded as Present/Absent.
 
-## Engagement (10%)
+## Research Deliverables (45%)
 
-There are three in-class activities and 14 labs that require student involvement. Attendance (or otherwise participating) in these activities is important for the class's learning goals. There will be ways to make up these components of the class if you miss them (see the attendance policy). These are graded as Present/Absent.
+You will work on a research project in the second half of the semester (either individually or in small groups). There are three types of deliverables for the research project: well-documented and correct code, a structured write-up describing your project, and a presentation slide deck. The first two deliverables (code and the write-up) will have multiple deadlines and requirements, which are either marked as M/P/C/E or Present/Absent.
 
-## Research Deliverables (30%)
-
-You will work on a research project in the second half of the semester (either individually or in small groups). There are three types of deliverables for the research project: well-documented and correct code, a structured write-up describing your project, and a slide deck you will present during finals week. Each deliverable will have a set of required, "baseline" criteria to meet, as well as a number of "extra" criteria you might attempt. The Code, Write-Up, and Slides will each be marked as No Baseline/Baseline/Baseline + Extra. The grade is based on how many components are completed - see Moodle for more details.
-
-Quizzes are completed individually; for all other assignments you can work with each other. Refer to the [policies page](policies.md) for more information.
+The exams are completed individually; for all other assignments you may work with each other. Refer to the [policies page](policies.md) for more information.

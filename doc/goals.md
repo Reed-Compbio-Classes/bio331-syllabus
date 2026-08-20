@@ -13,7 +13,7 @@ At the end of Bio331, you will be able to:
 3. Interpret the results of an algorithm run on a biological network.
 4. Use technologies that enable collaboration and communication.
 5. Learn how to work through a challenging research project and mark progress along the way.
-6. Communicate work to a broad audience.
+6. Communicate work in writing and through presentations.
 
-Bio331 satisfies the Group III and Group III-Data Collection and Analysis distribution requirements, and you can find the relevant group distribution learning outcomes in the [course catalog description](https://catalog.reed.edu/preview_course.php?catoid=9&coid=7751).  
+Bio331 satisfies the Group III and Group III-Data Collection and Analysis distribution requirements, and you can find the relevant group distribution learning outcomes in the [course catalog description](https://catalog.reed.edu/preview_course_nopop.php?catoid=57&coid=82681).  
 
