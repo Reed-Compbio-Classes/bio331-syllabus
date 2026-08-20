@@ -12,6 +12,6 @@ nav_order: 7
 
 - **When you don't even know where to start, ask.**  This can be the toughest thing when working on problems that do not have a nice, clean solution - where to start?  Coming to office hours when you don't even have a properly-formed question is still valuable.
 
-- **Working collaboratively is fun!** Try to talk through complicated concepts with others, and make use of the group time in lab to get clarification. You can work with others outside of class on the programming assignments as outline in the [collaboration policy](policies.md/#collaboration-policy).
+- **Working collaboratively is fun!** Try to talk through complicated concepts with others, and make use of the group time in lab to get clarification. You can work with others outside of class on the programming assignments as outlined in the [collaboration policy](policies.md/#collaboration-policy).
 
 - **Start the assignments early.**  Really.

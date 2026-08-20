@@ -33,7 +33,7 @@ The final version of this syllabus will be set by the first day of class.  Any m
 
 ## Communication & Technology
 
-**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=6211).** 
+**Official communications about all course materials and assignments will be done through the [Moodle page](https://moodle.reed.edu/course/view.php?id=6965).** 
 
 - Check your email every day to stay updated.
 - We will use GitHub for the programming assignments.

@@ -18,12 +18,13 @@ There are 6 programming labs and 7 lab-time opportunities for research project w
 
 There are some religious holidays and other events in the fall that might affect student attendance - please note these in your calendars and let me know if your attendance will be affected.
 
+- September 9: Labor Day (no classes)
 - September 11-13: Rosh Hashanah
 - September 20-21: Yom Kippur
 - November 3: Election Day
 - November 8: Diwali begins
 - November 11: Veterans Day
-- November 26: Thanksgiving Day
+- November 26: Thanksgiving Day (no classes)
 
 If you miss multiple classes, I may reach out to make sure you are OK. Communication is key. Please see "Illness and Exceptional Circumstances" on the [support page](support.md) for more information about extended absences. 
 
@@ -31,7 +32,7 @@ If you miss multiple classes, I may reach out to make sure you are OK. Communica
 
 ## Deadline Policy
 
-The the programming assignments, exams, and the research project milestones all have deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
+The programming assignments, exams, and the research project milestones all have deadlines. The purpose of these deadlines is for you to complete the assignments at a steady pace throughout the semester. 
 
 **Why Submit Work on Time?** The programming assignments are designed so that you are working on them after you have learned the relevant material in lecture and lab. If you are working on older assignments when another assignment is out, you might lose ground with the current coursework. 
 
@@ -39,7 +40,7 @@ The exams assess the previous weeks' worth of material and they are assigned at 
 
 Finally, if you do not submit work on time, I cannot guarantee that you will receive timely feedback; this may affect your ability to resubmit work to improve your grade.
 
-**What's the Policy?** You must submit whatever work you have by the deadline, and I will mark it as M/P/C/E. Work may be resubmitted after receiving feedback from me; resubmitted work that includes a careful reflection on the changes mage are eligible for an E. **There are two non-negotiable deadlines in this course related to resubmitting work:**
+**What's the Policy?** You must submit whatever work you have by the deadline, and I will mark it as M/P/C/E. Work may be resubmitted after receiving feedback from me; resubmitted work that includes a careful reflection on the changes made are eligible for an E. **There are two non-negotiable deadlines in this course related to resubmitting work:**
 
 - The deadline to resubmit programming assignments is Mon 11/9 (3 weeks after the last programming assignment is due)
 - The deadline to resubmit writing assignments is the last day of Finals (Thurs 12/17)
