@@ -91,4 +91,4 @@ The exams are intended to be done on your own with your notes and the resources 
 
 The research project, on the other hand, might have opportunities for using new packages and getting help with generative AI. We will have a class discussion about how to use generative AI in your research project to set the class policy then.
 
-### The Main Takeaway: Online Resources and Generative AI should not be used for generating entire functions, but they may be used to help understand basic python syntax and debug issues (with proper citation). Online resources should not be used for quizzes (beyond what Moodle provides), and we will discuss the role of online resources for the research project as a class.
+### The Main Takeaway: Online Resources and Generative AI should not be used for generating entire functions, but they may be used to help understand basic python syntax and debug issues (with proper citation). Online resources should not be used for exams (beyond what Moodle provides), and we will discuss the role of online resources for the research project as a class.

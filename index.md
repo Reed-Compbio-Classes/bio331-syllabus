@@ -37,8 +37,8 @@ The final version of this syllabus will be set by the first day of class.  Any m
 
 - Check your email every day to stay updated.
 - We will use GitHub for the programming assignments.
-- We will use Moodle for written assignment submissions.
-- We will use other technologies (like Padlet or ImageJ/FIJI) for class activities. 
+- We will use Moodle for exam submissions.
+- We will use a combination of GitHub and Moodle for the research project.
 - If you have a question, others likely have the same question. Reach out at any time to me at aritz@reed.edu.
 
-**The [Honor Principle](https://www.reed.edu/honor_principle/) is in effect at all times.** This includes our work and interactions in class as well as our work done outside of class. We will have a discussion at the beginning of the semester about how the honor principle might be relevant in Bio131.
+**The [Honor Principle](https://www.reed.edu/honor_principle/) is in effect at all times.** This includes our work and interactions in class as well as our work done outside of class. 
