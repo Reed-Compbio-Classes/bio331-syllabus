@@ -1,7 +1,7 @@
 ---
 title: Archive
 layout: default
-nav_order: 10
+nav_order: 11
 ---
 
 These files were generated from the syllabus website using the [Pandoc](https://pandoc.org/installing.html) document converter tool.

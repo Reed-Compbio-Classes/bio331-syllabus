@@ -100,9 +100,9 @@ aux_links_new_tab: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: Bio331 F26 Moodle
-    url: https://moodle.reed.edu/course/view.php?id=6965
+#nav_external_links:
+#  - title: Bio331 F26 Moodle
+#    url: https://moodle.reed.edu/course/view.php?id=6965
 
 # Footer content
 # appears at the bottom of every page's main content

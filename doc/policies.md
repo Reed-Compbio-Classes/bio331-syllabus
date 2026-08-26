@@ -1,7 +1,7 @@
 ---
 title: Course Policies
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 
 # Course Policies
@@ -10,11 +10,9 @@ There are four policies for this course: one for [attendance](#attendance-policy
 
 ## Attendance Policy
 
-**Why Attend?** Attending the lectures and completing work during labs will put you in the best position to succeed in the course. Lectures will provide valuable information about the assignments, and labs will include some group work. Labs also offer time for me to provide guidance - they could be framed as small-group office hours working through problems together.  
+**Why Attend?** Attending the lectures and completing work during labs will put you in the best position to succeed in the course. Lectures will provide valuable information about the assignments, and labs will include some group work. Labs also offer time for me to provide guidance - they could be framed as small-group office hours working through problems together. Your attendance and engagement is expected in all lectures and labs, but there is no formal penalty for missing them. 
 
-**What's the Policy?**  Email me if you cannot attend lecture or lab. You are expected to review the missed material and meet with me if anything is unclear. 
-
-There are 6 programming labs and 7 lab-time opportunities for research project work; your engagement is expected. If you have spoken with me about not being able to attend, you will be able to catch up with this work asynchronously. 
+**What's the Policy?**  You must email me if you cannot attend lecture or lab. You are expected to review the missed material from lecture and meet with me if anything is unclear. You can catch up with lab assignments asynchronously after a discussion with me and/or your group members.
 
 There are some religious holidays and other events in the fall that might affect student attendance - please note these in your calendars and let me know if your attendance will be affected.
 
@@ -28,7 +26,7 @@ There are some religious holidays and other events in the fall that might affect
 
 If you miss multiple classes, I may reach out to make sure you are OK. Communication is key. Please see "Illness and Exceptional Circumstances" on the [support page](support.md) for more information about extended absences. 
 
-### The Main Takeaway: Attending and participating is expected and will set you up for success.
+### The Main Takeaway: Attending and participating is expected and will set you up for success. You must communicate any absences and make up missed work.
 
 ## Deadline Policy
 
@@ -43,7 +41,7 @@ Finally, if you do not submit work on time, I cannot guarantee that you will rec
 **What's the Policy?** You must submit whatever work you have by the deadline, and I will mark it as M/P/C/E. Work may be resubmitted after receiving feedback from me; resubmitted work that includes a careful reflection on the changes made are eligible for an E. **There are two non-negotiable deadlines in this course related to resubmitting work:**
 
 - The deadline to resubmit programming assignments is Mon 11/9 (3 weeks after the last programming assignment is due)
-- The deadline to resubmit writing assignments is the last day of Finals (Thurs 12/17)
+- The deadline to resubmit exam questions is the last day of Finals (Thurs 12/17)
 
 ### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit work after receiving feedback from me.
 

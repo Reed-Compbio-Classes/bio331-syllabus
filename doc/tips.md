@@ -1,7 +1,7 @@
 ---
 title: Keys for Success
 layout: default
-nav_order: 7
+nav_order: 8
 ---
 
 - **Start the assignments early.** The assignments are designed to be done over 1-2 weeks (and you may spend many hours debugging your programs).  Read the assignments when they are assigned and follow the suggested guidelines to make sure you are on track to complete all the work. 
