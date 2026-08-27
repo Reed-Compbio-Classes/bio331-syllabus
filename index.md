@@ -18,7 +18,7 @@ The final version of this syllabus will be set by the first day of class.  Any m
 
 **Instructor:** Anna Ritz (Biology 200B, student hours Thursdays 10-11; 2:30-3:30)
 
-**Lecture:** MWF 10-10:50am in ETC 211
+**Lecture:** MWF 10-10:50am in Library 204
 
 **Lab:** M 1:10-4:00 in ETC 208
 
