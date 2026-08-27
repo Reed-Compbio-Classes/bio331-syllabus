@@ -10,7 +10,7 @@ nav_order: 8
 
 - **When in doubt, ask.** Asking for help is sometimes unintuitive, but a little clarification goes a long way. If you have the question, others will probably have the same question. Ask early so I can communicate the answers to the rest of the class. Also, sometimes I make mistakes! Your question might help me fix a typo. 
 
-- **When you don't even know where to start, ask.**  This can be the toughest thing when working on problems that do not have a nice, clean solution - where to start?  Coming to office hours when you don't even have a properly-formed question is still valuable.
+- **When you don't even know where to start, ask.**  This can be the toughest thing when working on problems that do not have a nice, clean solution - where to start?  Coming to student hours when you don't even have a properly-formed question is still valuable.
 
 - **Working collaboratively is fun!** Try to talk through complicated concepts with others, and make use of the group time in lab to get clarification. You can work with others outside of class on the programming assignments as outlined in the [collaboration policy](policies.md/#collaboration-policy).
 

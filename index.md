@@ -10,20 +10,13 @@ In the era of high-throughput genomics, proteomics, and transcriptomics, we can 
 
 ## About this syllabus
 
-This syllabus is a public, searchable document that contains all of the details for this iteration of the course. It serves as a contract for the students taking Bio331 - if you take this course, you agree to abide by the policies described here. As the instructor, I commit to following this syllabus and administering it fairly and equitably. The main parts of the syllabus are:
-
-- [Goals](doc/goals.md): the course goals and learning objectives.
-- [Types of Work](doc/typesofwork.md): an explanation of how components in this course are evaluated and contribute to the final course grade.
-- [Support](doc/support.md): the support systems offered in the course.
-- [Policies](doc/policies.md): policies surrounding attendance, deadlines, collaboration, and online resources.
-- [Learning Environment](doc/environment.md): my commitment to making the classroom an inclusive learning environment.
-- [Keys for Success](doc/tips.md): tips for succeeding in the course.
+This syllabus is a public, searchable document that contains all of the details for this iteration of the course. It serves as a contract for the students taking Bio331 - if you take this course, you agree to abide by the policies described here. As the instructor, I commit to following this syllabus and administering it fairly and equitably. 
 
 The final version of this syllabus will be set by the first day of class.  Any modifications during the semester will be noted in the [change log](doc/changelog.md) and will be communicated to the class via Moodle. 
 
 ## Course details
 
-**Instructor:** Anna Ritz (Biology 200B, see the [support](docs/support.md) page for student hours)
+**Instructor:** Anna Ritz (Biology 200B, student hours Thursdays 10-11; 2:30-3:30)
 
 **Lecture:** MWF 10-10:50am in ETC 211
 

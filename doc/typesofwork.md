@@ -8,7 +8,7 @@ nav_order: 4
 
 Bio331 involves learning about two distinct themes - biological networks at different scales and graph algorithms - and how they can be combined to answer new biological questions. The work is graded on Missing/Partially Complete/Complete (M/P/C), Submitted/Not Submitted, or Present/Absent. Nearly all work may be submitted for an improved grade. Each assignment will clearly describe the criteria for success according to these assessment types. 
 
-In an advanced course such as Bio331, I believe it is important for students to know if their efforts exceed my expectations. For some types of assignments, there is a possibility of receiving an Excellent (E). Only truly exceptional work is marked as "Excellent," and it is not intended for a student to achieve an E for all eligible assignments. All assignments are initially graded as M/P/C; in order to get an "Excellent," students must do additional work after receiving feedback. More details will be provided with each eligible assignment.
+In an advanced course such as Bio331, I believe it is important for students to know if their efforts exceed my expectations. For some types of assignments, there is a possibility of receiving an Excellent (M/P/C/E). Only truly exceptional work is marked as excellent, and it is not intended for a student to achieve an E for all eligible assignments. All assignments are initially graded as M/P/C; in order to get an "Excellent," students must do additional work after receiving feedback. More details will be provided with each eligible assignment.
 
 ## Initial Survey
 
@@ -28,7 +28,7 @@ There are 6 programming labs and 7 lab-time opportunities for research project w
 
 ## Research Deliverables 
 
-You will work on a research project in the second half of the semester (either individually or in small groups). There are two types of deliverables for the research project: well-documented and correct code and a structured write-up describing your project. There are three deliverables graded as Submitted / Not Submitted, five deliverables graded as M/P/C, and the final deliverable is graded as M/P/C/E. The final deliverable is "excellent" if all feedback for both the code and the write-up have been addressed.
+You will work on a research project in the second half of the semester (either individually or in small groups). There are two types of deliverables for the research project: well-documented and correct code and a structured write-up describing your project. There are three deliverables graded as Submitted / Not Submitted, five deliverables graded as M/P/C, and the final research project deliverable is graded as M/P/C/E. The final deliverable is "excellent" if all feedback for both the code and the write-up have been addressed.
 
 | Deliverable | Description | Assessment Type | Feedback |
 | --- | --- | --- | -- |
@@ -40,4 +40,4 @@ You will work on a research project in the second half of the semester (either i
 | R4: Code Draft 2 | Documented code base | M/P/C | Written feedback | 
 | R5: Document Draft 2 | Updated draft of your write-up | M/P/C | Written feedback |
 | R6: Research Project Deliverables |  Final versions of your code base and write-up | M/P/C/E | Written Feedback |
-| Final Presentations | Low-stakes presentation during finals week to share your research project | Presented / Not Presented | Written feedback |
+| Final Presentations | Low-stakes presentation during finals week to share your research project | Submitted / Not Submitted | Written feedback |
