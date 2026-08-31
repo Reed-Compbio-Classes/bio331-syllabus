@@ -49,28 +49,17 @@ Finally, if you do not submit work on time, I cannot guarantee that you will rec
 
 **Why Collaborate?** Collaboration on all assignments and activities (except for the exams) is highly encouraged. It is often easier to work through problems with a thought partner, working with someone else brings a different perspective to the challenges, you might help each other out in complementary ways, and working together can be fun! 
 
-**What's the Policy?** When you collaborate, properly cite it in your work (see below). **You must write all of your own code for the programming assignments**, even if that means sitting next to a collaborator and typing the same thing. You have a lot of flexibility in naming variables, including print statements and comments in your code.
-
-Code plagiarism is a real thing. Identical code is just as bad as copying and pasting entire paragraphs of an essay from another source. Just like when writing papers, there is a way to cite others' work in programs.  If you collaborate with other students in the class or sought help from a tutor, add their names as comments, e.g., 
-
-```
-# This function was written with Jane and Rob for Lab 5
-# I talked about the structure of this code with Marco
-# Julie and I worked on the function post_network() together.
-# I modified the convert() function from Lab 3
-```
-
-This type of collaboration is expected and encouraged! People who worked together should list each other as collaborators, since this will help us determine why some code might look similar.
+**What's the Policy?** When you collaborate, properly document the collaboration (who you worked with, and on what). You must write all of your own code for the programming assignments, even if that means sitting next to a collaborator and typing the same thing. **New this year,** each assignment and the research project will include a "Collaborations & Resources Used" section or file, where you should acknowledge any collaborators you worked with.
 
 **Citing Previous Code from Class.** If you copy your own code from previous assignments or labs, cite in the comments where you copied the code from (e.g., `# read_graph() function from Lab1.`). Anna will post solutions to the labs on Fridays; you are free to copy pieces of these solutions for future assignments, clearly state that it is from a posted solution (e.g., `# read_graph() function from posted Lab1 solution.`). 
 
-### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! You should "cite" anyone you worked with on the programming assignments and any code you copied from a previous lab or assignment. 
+### The Main Takeaway: Collaboration in class and on programming assignments is expected and encouraged! Be sure to acknowledge collaborations in your assignments or labs. 
 
 ## Online Resources & Generative AI Policy
 
 There are many online resources for python, including python modules that have pre-packaged functions, the [python standard library reference](https://docs.python.org/3.13/library/index.html), and user help threads like StackOverflow. Generative AI is technology that is trained to generate text, images, or code from natural language prompts.  Two examples of generative AI that you might have seen before are ChatGPT (which returns text based on prompts) and GitHub Copilot (which returns code based on prompts).
 
-You may always use the resources linked from Moodle. This policy lays out the scope of what is allowed beyond the Moodle resources. **New this year,** each assignment and the research project will include a "Resources Used" section, where you should explain what resources you used and how you used them. 
+You may always use the resources linked from Moodle. This policy lays out the scope of what is allowed beyond the Moodle resources. **New this year,** each assignment and the research project will include a "Collaborations & Resources Used" section or file, where you should explain what resources you used and how you used them. 
 
 ### Programming Assignments
 
