@@ -24,7 +24,7 @@ There will be three exams that review and expand upon the lecture content of the
 
 ## Lab Engagement 
 
-There are 6 programming labs and 7 lab-time opportunities for research project work. Attendance (or otherwise participating) in these activities is important for the class's learning goals. There will be ways to make up these components of the class if you miss them (see the attendance policy). These are graded as Present/Absent.
+There are 5 programming labs and 7 lab-time opportunities for research project work. Attendance (or otherwise participating) in these activities is important for the class's learning goals. There will be ways to make up these components of the class if you miss them (see the attendance policy). These are graded as Present/Absent.
 
 ## Research Deliverables 
 

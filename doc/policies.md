@@ -40,7 +40,7 @@ Finally, if you do not submit work on time, I cannot guarantee that you will rec
 
 **What's the Policy?** You must submit whatever work you have by the deadline, and I will mark it as M/P/C/E. Work may be resubmitted after receiving feedback from me; resubmitted work that includes a careful reflection on the changes made are eligible for an E. **There are two non-negotiable deadlines in this course related to resubmitting work:**
 
-- The deadline to resubmit programming assignments is Mon 11/9 (3 weeks after the last programming assignment is due)
+- The deadline to resubmit programming assignments is Mon 11/16 (3 weeks after the last programming assignment is due; deadline updated 10/20/2026)
 - The deadline to resubmit exam questions is the last day of Finals (Thurs 12/17)
 
 ### The Main Takeaway: Assignment deadlines are intentional, and you should submit your work by the deadline. You will be able to resubmit work after receiving feedback from me.

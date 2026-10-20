@@ -8,13 +8,13 @@ nav_order: 5
 
 The work in this class consists of 4 programming assignments, 3 exams, and 6 research deliverables (13 graded pieces total; see the [types of work page](typesofwork.md)). The 13 pieces are designed so if students complete them all, they will earn a B. If you earn a B in the course, you will have learned _a lot_ about computational systems biology. 
 
-Additionally, there are 4 items graded as "Submitted / Not Submitted" and 13 labs graded as "Present / Absent" (17 low-stakes pieces total). Most (if not all) of these should be submitted/marked - there are opportunities to make up labs you cannot miss. 
+Additionally, there are 4 items graded as "Submitted / Not Submitted" and 12 labs graded as "Present / Absent" (16 low-stakes pieces total). Most (if not all) of these should be submitted/marked - there are opportunities to make up labs you cannot miss. 
 
 The table below is based off of requirements for a B. There are 8 opportunities for an Excellent (programming assignments, exams, and the final research deliverable) - earning one or more Es will improve your grade beyond a B if you have completed all pieces. If you partially complete pieces, miss assignments, or miss extra labs, that reduces your grade. However, one E will bump up a partially complete piece to a complete piece. 
 
 **To interpret the table**, if you have an "excellent" piece you can swap it to bump a "partially complete" piece up to make it "complete." Then use the number of M/P/C/E pieces to find your grade. The number of missed pieces is considered first.
 
-| Earned Grade | Assignment Requirements | #  Missed Graded Pieces Allowed (13 total) | # Missed Low-Stakes Pieces Allowed (17 total) |
+| Earned Grade | Assignment Requirements | #  Missed Graded Pieces Allowed (13 total) | # Missed Low-Stakes Pieces Allowed (16 total) |
 | --- | --- | --- | --- | 
 | A | Requirements for a B and at least three pieces are Excellent: one must be a programming assignment (P1-P4), one must be an exam (E1-E3), and one must be the research deliverable R6 | 0 | 0 |
 | A- | Requirements for a B and at least two pieces are Excellent | 0 | 1 |
