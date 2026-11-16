@@ -40,4 +40,4 @@ You will work on a research project in the second half of the semester (either i
 | R4: Code Draft 2 | Documented code base | M/P/C | Written feedback | 
 | R5: Document Draft 2 | Updated draft of your write-up | M/P/C | Written feedback |
 | R6: Research Project Deliverables |  Final versions of your code base and write-up | M/P/C/E | Written Feedback |
-| Final Presentations | Low-stakes presentation during finals week to share your research project | Submitted / Not Submitted | Written feedback |
+| Final Presentations | Low-stakes presentation during the last week of class to share your research project | Submitted / Not Submitted | Written feedback |
